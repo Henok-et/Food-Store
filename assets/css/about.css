@@ -14,6 +14,9 @@ body {
 html {
     scroll-behavior: smooth;
 }
+.newright{
+    text-decoration: none;
+}
 
 /* Custom Scroll Bar */
 ::-webkit-scrollbar {
